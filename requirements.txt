@@ -1,0 +1,16 @@
+pymongo[srv]==4.2.0
+scikit-learn
+from-root
+matplotlib
+seaborn
+catboost 
+kneed
+prettytable
+pandas
+datetime
+typing
+pyYAML
+imblearn
+dill
+xgboost==1.6.2
+- e .
